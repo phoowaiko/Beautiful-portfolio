@@ -32,7 +32,7 @@ const Navbar = () => {
           href="#hero"
           className="text-xl font-bold text-primary flex items-center">
           <span className="relative z-10">
-            <span className="text-glow text-foreground ">Phoo Wai Ko</span>
+            <span className="text-glow text-foreground ">Phoo Wai Ko </span>
             Portfolio
           </span>
         </a>
